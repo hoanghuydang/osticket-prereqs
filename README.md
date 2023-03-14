@@ -57,6 +57,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Create a Username and Password (make sure to make note or remember this)
   - Under Licensing make sure to check the box
   - Go to Next: Disks --> Go to Next: Networking
+  - In "Networking" it will automatically create a Virtual Network and Subnet
+  - Then Select "Review + Create"
 </p>
 <br />
 
