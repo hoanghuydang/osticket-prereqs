@@ -36,7 +36,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - After that you are able to create a resource group.
   - Search "Resource Groups" in the search bar and select it.
   - Next select "Create Resource Group"
-  - Name Resource Group "RG-osTicket" then select "review + create"
+  - Name Resource Group "RG-osTicket" and select the appropriate region.
+  - Then select "review + create"
 </p>
 <br />
 
