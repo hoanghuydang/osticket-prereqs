@@ -66,16 +66,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/zrtCMo4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IqBd3Nz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 1: CREATE A RESOURCE GROUP</h2>
+  
+  <p>
+<img src="https://i.imgur.com/3NQ1U4j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 3: REMOTE DESKTOP INTO YOUR VIRTUAL MACHINE</h2>
 
-  - Go to portal.Azure.com and create a tenant and free subscription.
-  - After that you are able to create a resource group.
-  - Search "Resource Groups" in the search bar and select it.
-  - Next select "Create Resource Group"
-  - Name Resource Group "RG-osTicket" and select the appropriate region.
-  - Then select "review + create"
+  - Go to portal.Azure.com 
+  - Search and click on "Virtual Machines" - then select the VM-osTicket
+  - On the right side you can find the public IP address, copy it
+  - Next open Microsoft Remote Desktop and add a PC - Paste the IP address and use the same username and login that was created when creating the VM 
 </p>
 <br />
