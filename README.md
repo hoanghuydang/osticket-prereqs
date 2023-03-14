@@ -30,12 +30,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/hTFSLnz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-- STEP 1: CREATE A RESOURCE GROUP
-  Go to portal.Azure.com and create a tenant and subscription.
-  After that you are able to create a resource group.
-  Search "Resource Groups" in the search bar and select it.
-  Next select "Create Resource Group"
-  Name Resource Group "RG-osTicket" then select "review + create"
+</h2>STEP 1: CREATE A RESOURCE GROUP</h2>
+
+  - Go to portal.Azure.com and create a tenant and subscription.
+  - After that you are able to create a resource group.
+  - Search "Resource Groups" in the search bar and select it.
+  - Next select "Create Resource Group"
+  - Name Resource Group "RG-osTicket" then select "review + create"
 </p>
 <br />
 
