@@ -20,9 +20,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Tenant created on Azure.portal.com
 - Subscription to Azure
-- Create Resource Groups
-- Create Virtual Network and Subnet
-- Create Virtual Machine (Windows)
 
 <h2>Installation Steps</h2>
 
@@ -68,3 +65,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/zrtCMo4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 1: CREATE A RESOURCE GROUP</h2>
+
+  - Go to portal.Azure.com and create a tenant and free subscription.
+  - After that you are able to create a resource group.
+  - Search "Resource Groups" in the search bar and select it.
+  - Next select "Create Resource Group"
+  - Name Resource Group "RG-osTicket" and select the appropriate region.
+  - Then select "review + create"
+</p>
+<br />
