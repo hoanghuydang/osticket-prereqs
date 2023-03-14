@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </h2>STEP 1: CREATE A RESOURCE GROUP</h2>
 
-  - Go to portal.Azure.com and create a tenant and subscription.
+  - Go to portal.Azure.com and create a tenant and free subscription.
   - After that you are able to create a resource group.
   - Search "Resource Groups" in the search bar and select it.
   - Next select "Create Resource Group"
@@ -42,17 +42,21 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/okBCM6x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </h2>STEP 2: CREATE A VIRTUAL MACHINE</h2>
 
-  - Go to portal.Azure.com and create a tenant and subscription.
-  - After that you are able to create a resource group.
-  - Search "Resource Groups" in the search bar and select it.
-  - Next select "Create Resource Group"
-  - Name Resource Group "RG-osTicket" and select the appropriate region.
-  - Then select "review + create"
+  - Go to portal.Azure.com
+  - Search "Virtual Machines" in the search bar and select it.
+  - Next select "Create - Azure Virtual Machine"
+  - Select the Resource Group "RG-osTicket"
+  - Name the Virtual Machine "VM-osTicket" and select the appropriate region (make sure it matches the Resource Group Region)
+  - For Image select "Windows 10 Pro"
+  - For Size Select Standard_D4s_v3 - 4 vcpus, 16 GiB memory
+  - Create a Username and Password (make sure to make note or remember this)
+  - Under Licensing make sure to check the box
+  - Go to Next: Disks --> Go to Next: Networking
 </p>
 <br />
 
