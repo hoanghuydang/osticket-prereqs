@@ -45,6 +45,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/okBCM6x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  
+  <p>
+<img src="https://i.imgur.com/zrtCMo4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  
 </h2>STEP 2: CREATE A VIRTUAL MACHINE</h2>
 
   - Go to portal.Azure.com
