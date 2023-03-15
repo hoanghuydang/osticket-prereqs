@@ -255,5 +255,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Then Security --> Advanced
   - Then Disable inheritance --> Remove All
   - New Permissions --> Everyone --> All
+  - Now everyone has permissions to ost-config.php
+</p>
+<br />
+
+ <p>
+<img src="https://i.imgur.com/z6VvP49.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 15: CONTINUE SETTING UP OSTICKET IN THE BROWSER</h2>
+
+  - Name Helpdesk
+  - Default email (receives email from customers)
+  - Fill out information, make note or remember the credentials
+</p>
+<br />
+
+ <p>
+<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 16: DOWNLOAD AND INSTALL VC_redist.86.exe</h2>
+
+  - Google and Download VC_redist.8.exe
 </p>
 <br />
