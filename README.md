@@ -208,7 +208,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 <p>
-<img src="https://i.imgur.com/4eeLKxX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0JcUqps.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <p>
