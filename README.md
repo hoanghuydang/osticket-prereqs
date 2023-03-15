@@ -232,3 +232,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Refresh the osTicket site int your browser, observe the changes
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/8AniI5r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 13: RENAME: ost-config.php </h2>
+
+  - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+  - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/XYUWz9r.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 14: ASSIGN PERMISSIONS: OST-CONFIG.PHP</h2>
+
+  - Right click the ost-config.php file and select properties 
+  - Then Security --> Advanced
+  - Then Disable inheritance --> Remove All
+  - New Permissions --> Everyone --> All
+</p>
+<br />
