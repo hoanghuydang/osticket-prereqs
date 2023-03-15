@@ -156,7 +156,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 6: DOWNLOAD AND INSTALL VC_redist.86.exe</h2>
+</h2>STEP 9: DOWNLOAD AND INSTALL VC_redist.86.exe</h2>
 
   - Google and Download VC_redist.8.exe
 </p>
