@@ -288,3 +288,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - After you've logged in you should have a screen like the image above
 </p>
 <br />
+
+ <p>
+<img src="https://i.imgur.com/5N7E8kK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 17: CONTINUE SETTING UP OSTICKET IN BROWSER</h2>
+
+  - MySQL Database: osTicket
+  - MySQL Username: Root
+  - MySQL Password: ********
+  - Click "Install Now"
+</p>
+<br />
+
+ <p>
+<img src="https://i.imgur.com/ZyIpw1C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 18: CONGRATS OSTICKET IS NOW INSTALLED</h2>
+
+  - WooHoo!
+</p>
+<br />
