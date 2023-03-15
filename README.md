@@ -122,9 +122,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </h2>STEP 6: DOWNLOAD AND INSTALL REWRITE MODULE</h2>
 
-  - Go to portal.Azure.com 
-  - Search and click on "Virtual Machines" - then select the VM-osTicket
-  - On the right side you can find the public IP address, copy it
-  - Next open Microsoft Remote Desktop and add a PC - Paste the IP address and use the same username and login that was created when creating the VM 
+  - Google and Download Rewrite Module 
 </p>
 <br />
