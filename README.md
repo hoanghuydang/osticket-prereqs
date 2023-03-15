@@ -98,26 +98,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
   - In your Virtual Machine, on the bottom left search "Control Panel" 
   - Select "Programs" then select "Turn Windows features on and off"
-  - You will Find "Internet Information Services" click the + icon to expand it
-  - Then find "World Wide Web Services" expand that
-  - Then find "Application Development Features" expand that and make sure to check CGI
+  - You will Find "Internet Information Services" make sure to check it, and click the + icon to expand it
+  - Then find "World Wide Web Services" expand that.
+  - Then find "Application Development Features" expand that and make sure to check CGI.
   - Install CGI and wait for it to finish
   - To test that our web server is working open a new tab and open 127.0.0.1 it should load the default IIS server
-  - Next 
+  - You should have an image like the one above.
 </p>
 <br />
 
  <p>
-<img src="https://i.imgur.com/3NQ1U4j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QgHePV7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </h2>STEP 5: DOWNLOAD PHP MANAGER FOR IIS</h2>
 
-  - Go to portal.Azure.com 
-  - Search and click on "Virtual Machines" - then select the VM-osTicket
-  - On the right side you can find the public IP address, copy it
-  - Next open Microsoft Remote Desktop and add a PC - Paste the IP address and use the same username and login that was created when creating the VM 
-</p>
+  -  Google and Download Microsoft PHP Manager</p>
 <br />
 
  <p>
