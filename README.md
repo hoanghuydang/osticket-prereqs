@@ -311,3 +311,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - WooHoo!
 </p>
 <br />
+
+ <p>
+<img src="https://i.imgur.com/Hb9xZoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <p>
+<img src="https://i.imgur.com/pR8v1c5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 19: CLEAN UP</h2>
+
+  - Delete: C:\inetpub\wwwroot\osTicket\setup
+  - Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
+<br />
+
