@@ -122,6 +122,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </h2>STEP 6: DOWNLOAD AND INSTALL REWRITE MODULE</h2>
 
-  - Google and Download Rewrite Module 
+  - Google and Download IIS URL Rewrite Module 2
 </p>
 <br />
