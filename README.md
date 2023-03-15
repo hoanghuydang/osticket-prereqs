@@ -117,7 +117,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
  <p>
-<img src="https://i.imgur.com/3NQ1U4j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BItyj2p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 </h2>STEP 6: DOWNLOAD AND INSTALL REWRITE MODULE</h2>
