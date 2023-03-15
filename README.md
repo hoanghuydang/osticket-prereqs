@@ -151,3 +151,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Select "Extract" and contents will be unzipped into the PHP file.
 </p>
 <br />
+
+ <p>
+<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 6: DOWNLOAD AND INSTALL VC_redist.86.exe</h2>
+
+  - Google and Download VC_redist.8.exe
+</p>
+<br />
