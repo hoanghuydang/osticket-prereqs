@@ -36,6 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Next select "Create Resource Group"
   - Name Resource Group "RG-osTicket" and select the appropriate region.
   - Then select "review + create"
+  - Then after validation click "create"
 </p>
 <br />
 
@@ -110,7 +111,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/3NQ1U4j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 5: REMOTE DESKTOP INTO YOUR VIRTUAL MACHINE</h2>
+</h2>STEP 5: DOWNLOAD PHP MANAGER FOR IIS</h2>
 
   - Go to portal.Azure.com 
   - Search and click on "Virtual Machines" - then select the VM-osTicket
@@ -123,7 +124,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/3NQ1U4j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 6: REMOTE DESKTOP INTO YOUR VIRTUAL MACHINE</h2>
+</h2>STEP 6: DOWNLOAD AND INSTALL REWRITE MODULE</h2>
 
   - Go to portal.Azure.com 
   - Search and click on "Virtual Machines" - then select the VM-osTicket
