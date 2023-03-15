@@ -161,3 +161,50 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Google and Download VC_redist.8.exe
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/7snmuV6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 10: DOWNLOAD AND INSTALL MySQL 5.5.62</h2>
+
+  - Google and Download MySQL 5.5.62
+  - Agree to terms - check the box
+  - Choose Set Up Type - "Select" Typical and install
+  - For the MySQL wizard configuration click "Next"
+  - Select "Standard Configuration" --> "Next" 
+  - Create a MySQL password for Root user, then click next
+  - Select "Execute" to install a database onto the VM
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/fWlcBGb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/79oxpNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <p>
+<img src="https://i.imgur.com/nFAGdwC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 11: Open IIS as an Admin</h2>
+
+  - In the Windows VM search in the bottom left "ISS" and right click it and "Run as administrator"
+  - Click on "PHP Manager" and "Register new PHP Version"
+  - Browse --> PHP Folder --> php-cgi then select that file
+  - Go back to ISS and click "restart" near the green icon on the left
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 12: DOWNLOAD AND INSTALL VC_redist.86.exe</h2>
+
+  - Google and Download VC_redist.8.exe
+</p>
+<br />
