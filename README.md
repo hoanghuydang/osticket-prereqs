@@ -125,3 +125,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Google and Download IIS URL Rewrite Module 2
 </p>
 <br />
+
+ <p>
+<img src="https://i.imgur.com/CsF40tk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 7: CREATE THE DIRECTORY C:\PHP</h2>
+
+  - In your Windows virtual machine go to the bottom left search bar and type "File Explorer"
+  - Click on "This PC"
+  - Click on the Windows (C:)
+  - In Windows (C:) right click, then click "New", then click "Folder" and Name is PHP.
+</p>
+<br />
+
+ <p>
+<img src="https://i.imgur.com/FX6S70C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</h2>STEP 8: DOWNLOAD PHP 7.3.8 & UNZIP THE CONTENTS INTO PHP FOLDER</h2>
+
+  - Google and Download PHP 7.3.8.
+  - After download is finished right click the php zip file and "Extract All"
+  - Select "Browse" --> "This PC" --> Windows (C:) --> PHP and click "Select Folder"
+  - Select "Extract" and contents will be unzipped into the PHP file.
+</p>
+<br />
