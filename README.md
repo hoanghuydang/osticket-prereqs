@@ -215,7 +215,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/AOC0sAX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 12: DOWNLOAD AND OSTICKET</h2>
+</h2>STEP 12: DOWNLOAD OSTICKET</h2>
 
   - Google and Download osTicket
   - Extract and copy "upload folder to c:\inetpub\root
