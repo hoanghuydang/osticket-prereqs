@@ -195,7 +195,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - In the Windows VM search in the bottom left "ISS" and right click it and "Run as administrator"
   - Click on "PHP Manager" and "Register new PHP Version"
   - Browse --> PHP Folder --> php-cgi then select that file
-  - Go back to ISS and click "restart" near the green icon on the left
+  - Go back to ISS and click "restart" near the green icon on the right
 </p>
 <br />
 
@@ -203,8 +203,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/YKpMsef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-</h2>STEP 12: DOWNLOAD AND INSTALL VC_redist.86.exe</h2>
+</h2>STEP 12: DOWNLOAD AND OSTICKET</h2>
 
-  - Google and Download VC_redist.8.exe
+  - Google and Download osTicket
+  - Extract and copy "upload folder to c:\inetpub\root
+  - Within c:\inet\www.root, Rename upload to osTicket
+  - Restart the ISS Server
+  - In the ISS Server go on the left to expand the vm-osticket --> expand "Sites" --> expand "Default Web Site" --> Select osTicket
+  - Then on the Rght click "Browse*80"
+  - You should be able to see the osTicket Installer like the image above
+  - Now go back to ISS go back to the osTicket Folder and click "PHP Manager"
+  - Click "Enable or disable an extension"
+  - Enable: php_imap.dll
+  - Enable: php_intl.dll
+  - Enable: php_opache.dll
+  - Refresh the osTicket site int your browser, observe the changes
 </p>
 <br />
